@@ -1,0 +1,4 @@
+# Ignore RHistory
+.Rhistory
+rsconnect/
+README.html

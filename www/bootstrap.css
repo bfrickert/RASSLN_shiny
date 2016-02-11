@@ -1,0 +1,42 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+.record {
+  font: 16px 'Oswald', Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: #fff;
+  background-color: #ad1d28;
+  text-align: center;
+  line-height: 200%
+}
+
+.bodytext {
+  margin: 35px; 50px; 80px;
+}
+
+h2, h1 {
+  font-family: 'Lobster', cursive;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #ad1d28;
+}
+
+h2 {
+  font-weight: 150;
+  line-height: .75;
+}
+
+body {
+  background-color: #fff;
+  color: #ad1d28;
+}
+
+th {
+  font-family: 'Lobster', cursive;
+  border: 0px;
+}
+
+h5, th, td {
+    background-color: #fff;
+    color: #ad1d28;
+}
+
